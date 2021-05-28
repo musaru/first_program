@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2021-05-28T04:37:12.789Z" agent="5.0 (Windows)" etag="E0hB1sBwmfN1l0W4YHSa" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-28T04:45:33.492Z" agent="5.0 (Windows)" etag="l-dtc2EHL5x5Or5eI3u0" version="14.6.13" type="github">
   <diagram id="P7L_tcnLu_Fz38Bn6goS" name="Page-1">
     <mxGraphModel dx="868" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="BeYQRY-4uXbT6F4zhxZK-2" value="&lt;div style=&quot;font-size: 18px&quot; align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot; color=&quot;#0A0A0A&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Input Tablet Data &lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot; align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 11px&quot; face=&quot;Times New Roman&quot; color=&quot;#0A0A0A&quot;&gt;&amp;nbsp;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 12px&quot; face=&quot;Times New Roman&quot; color=&quot;#0A0A0A&quot;&gt;(X&lt;/font&gt;&lt;font style=&quot;font-size: 12px&quot; face=&quot;Times New Roman&quot; color=&quot;#0A0A0A&quot;&gt;, Y, Z, Pressure,&amp;nbsp;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;div style=&quot;background-color: rgb(255 , 255 , 254) ; font-weight: normal ; line-height: 20px&quot;&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px&quot; face=&quot;Times New Roman&quot; color=&quot;#0A0A0A&quot;&gt;GripAngle,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px&quot; face=&quot;Times New Roman&quot; color=&quot;#0A0A0A&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Timestamp, TestID)&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry y="50" width="120" height="130" as="geometry" />
+          <mxGeometry x="10" y="50" width="120" height="130" as="geometry" />
         </mxCell>
         <mxCell id="BeYQRY-4uXbT6F4zhxZK-4" value="&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;Feature Extraction&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px&quot; face=&quot;Times New Roman&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px&quot; face=&quot;Times New Roman&quot;&gt;1. Kinematic features&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px&quot; face=&quot;Times New Roman&quot;&gt;2. Temporal feature&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px&quot; face=&quot;Times New Roman&quot;&gt;3.Statistical feature&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px&quot; face=&quot;Times New Roman&quot;&gt;(30 features)&lt;/font&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="50" width="160" height="130" as="geometry" />
+          <mxGeometry x="170" y="50" width="150" height="130" as="geometry" />
         </mxCell>
         <mxCell id="BeYQRY-4uXbT6F4zhxZK-5" value="&lt;div style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;Test Set&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="150" width="90" height="60" as="geometry" />
@@ -28,13 +28,13 @@
             <mxPoint x="650" y="129.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Jt_zE6iAnaz7L5C-w0Bt-1" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="Jt_zE6iAnaz7L5C-w0Bt-1" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;size=0.5;" vertex="1" parent="1">
           <mxGeometry x="320" y="60" width="40" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Jt_zE6iAnaz7L5C-w0Bt-5" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="120" y="140" as="sourcePoint" />
-            <mxPoint x="160" y="90" as="targetPoint" />
+            <mxPoint x="130" y="135" as="sourcePoint" />
+            <mxPoint x="170" y="85" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Jt_zE6iAnaz7L5C-w0Bt-9" value="&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;Random Forest&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -47,7 +47,7 @@
           <mxGeometry x="770" y="110" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Jt_zE6iAnaz7L5C-w0Bt-12" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="70" width="20" height="120" as="geometry" />
+          <mxGeometry x="640" y="70" width="30" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Jt_zE6iAnaz7L5C-w0Bt-15" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="Jt_zE6iAnaz7L5C-w0Bt-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -87,6 +87,9 @@
         </mxCell>
         <mxCell id="Jt_zE6iAnaz7L5C-w0Bt-24" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="621" y="10" width="20" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Jt_zE6iAnaz7L5C-w0Bt-26" value="" style="line;strokeWidth=1;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="115" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
