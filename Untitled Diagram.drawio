@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-04T20:44:15.457Z" agent="5.0 (Windows)" etag="17proUYUml6Z2jZKongW" version="14.8.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-07-04T20:47:06.954Z" agent="5.0 (Windows)" etag="z6YlbxHTK_TUJ-L5b7Bd" version="14.8.0" type="github" pages="3">
   <diagram id="yrJYx-mobBC41oEg5IrB" name="Page-1">
     <mxGraphModel dx="1422" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -249,9 +249,6 @@
         <mxCell id="S-Lr-oinqzmi-ao9bNBG-22" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Reinvested Profit&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Times New Roman;fillColor=#FFFF33;strokeColor=#000033;" vertex="1" parent="S-Lr-oinqzmi-ao9bNBG-1">
           <mxGeometry x="385" y="235" width="80" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="S-Lr-oinqzmi-ao9bNBG-23" value="&lt;font style=&quot;font-size: 15px&quot; face=&quot;Times New Roman&quot;&gt;Inflow of inputs&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFF33;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="S-Lr-oinqzmi-ao9bNBG-1">
-          <mxGeometry x="160" y="60" width="70" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="S-Lr-oinqzmi-ao9bNBG-25" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;fontFamily=Times New Roman;fontSize=15;strokeColor=#0000FF;strokeWidth=8;fillColor=#0000FF;" edge="1" parent="S-Lr-oinqzmi-ao9bNBG-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="190" y="200" as="sourcePoint" />
@@ -306,8 +303,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S-Lr-oinqzmi-ao9bNBG-39" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;strokeColor=#000033;strokeWidth=0;fillColor=#FFFFFF;" vertex="1" parent="S-Lr-oinqzmi-ao9bNBG-1">
-          <mxGeometry x="370" width="120" height="60" as="geometry" />
+        <mxCell id="S-Lr-oinqzmi-ao9bNBG-40" value="&lt;font style=&quot;font-size: 15px&quot; face=&quot;Times New Roman&quot;&gt;Inflow of inputs&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFF33;strokeColor=#000000;strokeWidth=1;" vertex="1" parent="S-Lr-oinqzmi-ao9bNBG-1">
+          <mxGeometry x="160" y="140" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
